@@ -16,11 +16,12 @@ public final class R {
     public static final int jpush_ic_richpush_actionbar_back=0x7f010004;
     public static final int jpush_ic_richpush_actionbar_divider=0x7f010005;
     public static final int jpush_notification_icon=0x7f010006;
-    public static final int richpush_btn_selector=0x7f010007;
-    public static final int richpush_progressbar=0x7f010008;
-    public static final int stripes=0x7f010009;
-    public static final int tiledstripes=0x7f01000a;
-    public static final int top_bg=0x7f01000b;
+    public static final int r20=0x7f010007;
+    public static final int richpush_btn_selector=0x7f010008;
+    public static final int richpush_progressbar=0x7f010009;
+    public static final int stripes=0x7f01000a;
+    public static final int tiledstripes=0x7f01000b;
+    public static final int top_bg=0x7f01000c;
   }
   public static final class id {
     public static final int actionbarLayoutId=0x7f020000;
